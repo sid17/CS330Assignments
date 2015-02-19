@@ -1,0 +1,8 @@
+Breakpoint 1 at 0x80488de
+<function, no debug info> _init;
+Junk at end of arguments.
+Breakpoint 2 at 0x80488de
+<function, no debug info> _init;
+Junk at end of arguments.
+Quit
+Undefined command: "exit".  Try "help".

@@ -1,0 +1,75 @@
+010123456789213456789100234516789108649753021186492750362874035
+9
+TToott62987546a8a47952
+3l
+l
+
+
+
+
+T3 T TTTTTo
+sosoooootTututttttaomamaaaaalt:l:lllll a        sl0s0sssssu 
+u
+uuuuumsSmSmmmmm:ut:t::::: ma a     0:r0r00000
+ t
+t
+
+
+
+
+S0 S SSSSSt
+ttttttttaSiaiaaaaartmrmrrrrrtaetettttt r: :     tt t ttttti 2i1iiiiimt8m3mmmmmei9e9eeeee:m,:,::::: e        9:E1E611843 n1n7030195d9d96299,4 9 ,99,, 9t,t ,,  E,i iE  EEn mEmnEEnndEenednndd n:d: dd  td   t  tti 6t7ittiimt5i3miimmei2m2emmee:m9e3:ee:: e7:3 ::  8:, ,8  888  8 9889999T9T4997871o1o1564541t9t42344,7a4a,44,, 4l,l ,,  T,   T  TTo tTtoTTootTioitoottaomtmattaalteaelaall a:l: ll  tl   t  tti 6t7ittiimt5i3miimmei0m0emmee:m0e9:ee:: e8:4 ::  8:
+ 
+8  888 888889097788943093433356955055
+25
+55
+
+5
+
+
+
+the passed value is 130 
+ [pid 0]: Exit called. Code: 0
+[pid 2]: Exit called. Code: 0
+[pid 1]: Exit called. Code: 0
+[pid 7]: Exit called. Code: 0
+[pid 5]: Exit called. Code: 0
+[pid 6]: Exit called. Code: 0
+[pid 3]: Exit called. Code: 0
+[pid 9]: Exit called. Code: 0
+[pid 8]: Exit called. Code: 0
+[pid 10]: Exit called. Code: 0
+[pid 4]: Exit called. Code: 0
+
+No threads ready or runnable, and no pending interrupts.
+Assuming all programs completed.
+
+ 
+ 
+----------Printing the Statistics----------
+
+Total Cpu Busy Time:96570
+Total Execution Time:161898
+CPU Usage:59.648668 
+Maximum CPU Burst Length:250
+Minimum CPU Burst Length:10
+Average CPU Burst:70.799120 
+Number of  CPU Burst:1364 
+Average Waiting Time:62819.181818 
+Maximum Completion Time(excluding main process):161898 
+Minimum Completion Time(excluding main process):156178 
+Average Completion Time(excluding main process):160358.000000 
+Variance of Completion Time(excluding main process):4288240.000000 
+
+----------Statistics Printed----------
+
+
+Machine halting!
+
+Ticks: total 161898, idle 65328, system 14050, user 82520
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 742
+Paging: faults 0
+Network I/O: packets received 0, sent 0
+
+Cleaning up...

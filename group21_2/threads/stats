@@ -1,0 +1,23 @@
+testloop.c 1 Time onlt to find the quantum length
+Printing the Statistics
+Verified the value of total burst
+Total Cpu Busy Time:8992
+Total Execution Time:15568
+CPU Usage:57.759507 
+Maximum CPU Burst Length:2068
+Minimum CPU Burst Length:10
+Average CPU Burst:130.318841 
+Number of  CPU Burst:69 
+Relative Error in CPU Burst Estimation:0.860320 
+Average Waiting Time:5.000000 
+ Maximum Completion Time:15568 
+Minimum Completion Time:15568 
+Average Completion Time:15568.000000 
+Variance of Completion Time:0.000000 
+Machine halting!
+
+Ticks: total 15568, idle 6576, system 740, user 8252
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 70
+Paging: faults 0
+Network I/O: packets received 0, sent 0

@@ -1,0 +1,824 @@
+Pahreelnlto  PwIoDr:l d1
+
+EPCxahericelundtt e PdaI fD2t:7e  r4i 
+nfCsohtrirklu dcw'tasii otpniasnr.ge
+ nfto rP IcDh:i l1d
+: C4h
+iPladr ecnatl2l ejdo isnl eveapl uaet:  time: 21152
+Child returned from sleep at time: 21342
+Child y=7
+hheelllloo  wwoorrlldd
+
+EExxeeccuutteedd  13850  iinnssttrruuccttiioonnss..
+
+0
+Parent y=6
+Type_Of_Algorithm 1
+PID=1
+PPID=0
+Previous_Cpu_Burst=20
+Estimated_Cpu_Burst=20
+,Number_Of_Threads=2
+,Base_Priority_Array=62
+ Priority_Array=62
+,Parent_Priority=50
+,TypeOfAlgorithm=1
+PID=2
+PPID=0
+Previous_Cpu_Burst=20
+Estimated_Cpu_Burst=20
+,Number_Of_Threads=3
+,Base_Priority_Array=130
+ Priority_Array=130
+,Parent_Priority=50
+,TypeOfAlgorithm=1
+PID=3
+PPID=0
+Previous_Cpu_Burst=20
+Estimated_Cpu_Burst=20
+,Number_Of_Threads=4
+,Base_Priority_Array=62
+ Priority_Array=62
+,Parent_Priority=50
+,TypeOfAlgorithm=1
+[pid 0]: Exit called. Code: 0
+Switching from thread "0" to thread "1"
+Switching from thread "1" to thread "2"
+Switching from thread "2" to thread "3"
+[108] Timer interrupt.
+[208] Timer interrupt.
+[308] Timer interrupt.
+[408] Timer interrupt.
+[508] Timer interrupt.
+[608] Timer interrupt.
+[708] Timer interrupt.
+[808] Timer interrupt.
+[908] Timer interrupt.
+[1008] Timer interrupt.
+[1108] Timer interrupt.
+[1208] Timer interrupt.
+[1308] Timer interrupt.
+[1408] Timer interrupt.
+[1508] Timer interrupt.
+[1608] Timer interrupt.
+[1708] Timer interrupt.
+[1808] Timer interrupt.
+[1908] Timer interrupt.
+[2008] Timer interrupt.
+[2108] Timer interrupt.
+Switching from thread "3" to thread "1"
+Switching from thread "1" to thread "3"
+[2208] Timer interrupt.
+[2308] Timer interrupt.
+[2408] Timer interrupt.
+[2508] Timer interrupt.
+[2608] Timer interrupt.
+[2708] Timer interrupt.
+[2808] Timer interrupt.
+[2908] Timer interrupt.
+[3008] Timer interrupt.
+[3108] Timer interrupt.
+[3208] Timer interrupt.
+[3308] Timer interrupt.
+[3408] Timer interrupt.
+[3508] Timer interrupt.
+[3608] Timer interrupt.
+[3708] Timer interrupt.
+[3808] Timer interrupt.
+[3908] Timer interrupt.
+[4008] Timer interrupt.
+[4108] Timer interrupt.
+Switching from thread "3" to thread "2"
+Switching from thread "2" to thread "3"
+[4208] Timer interrupt.
+[4308] Timer interrupt.
+[4408] Timer interrupt.
+[4508] Timer interrupt.
+[4608] Timer interrupt.
+[4708] Timer interrupt.
+[4808] Timer interrupt.
+[4908] Timer interrupt.
+[5008] Timer interrupt.
+[5108] Timer interrupt.
+[5208] Timer interrupt.
+[5308] Timer interrupt.
+[5408] Timer interrupt.
+[5508] Timer interrupt.
+[5608] Timer interrupt.
+[5708] Timer interrupt.
+[5808] Timer interrupt.
+[5908] Timer interrupt.
+[6008] Timer interrupt.
+[6108] Timer interrupt.
+[6208] Timer interrupt.
+Switching from thread "3" to thread "1"
+Switching from thread "1" to thread "3"
+[6308] Timer interrupt.
+[6408] Timer interrupt.
+[6508] Timer interrupt.
+[6608] Timer interrupt.
+[6708] Timer interrupt.
+[6808] Timer interrupt.
+[6908] Timer interrupt.
+[7008] Timer interrupt.
+[7108] Timer interrupt.
+[7208] Timer interrupt.
+[7308] Timer interrupt.
+[7408] Timer interrupt.
+[7508] Timer interrupt.
+[7608] Timer interrupt.
+[7708] Timer interrupt.
+[7808] Timer interrupt.
+[7908] Timer interrupt.
+[8008] Timer interrupt.
+[8108] Timer interrupt.
+[8208] Timer interrupt.
+Switching from thread "3" to thread "2"
+Switching from thread "2" to thread "3"
+[8308] Timer interrupt.
+[pid 3]: Exit called. Code: 0
+Switching from thread "3" to thread "1"
+[8408] Timer interrupt.
+Switching from thread "1" to thread "2"
+[8508] Timer interrupt.
+Switching from thread "2" to thread "1"
+[8608] Timer interrupt.
+Switching from thread "1" to thread "2"
+[8716] Timer interrupt.
+[8816] Timer interrupt.
+Switching from thread "2" to thread "1"
+[8916] Timer interrupt.
+Switching from thread "1" to thread "2"
+[9016] Timer interrupt.
+Switching from thread "2" to thread "1"
+[9116] Timer interrupt.
+Switching from thread "1" to thread "2"
+[9216] Timer interrupt.
+Switching from thread "2" to thread "1"
+[9316] Timer interrupt.
+Switching from thread "1" to thread "2"
+[9416] Timer interrupt.
+Switching from thread "2" to thread "1"
+[9516] Timer interrupt.
+Switching from thread "1" to thread "2"
+[9616] Timer interrupt.
+Switching from thread "2" to thread "1"
+[9716] Timer interrupt.
+Switching from thread "1" to thread "2"
+[9816] Timer interrupt.
+[9916] Timer interrupt.
+Switching from thread "2" to thread "1"
+[10016] Timer interrupt.
+Switching from thread "1" to thread "2"
+[10116] Timer interrupt.
+Switching from thread "2" to thread "1"
+[10216] Timer interrupt.
+Switching from thread "1" to thread "2"
+[10316] Timer interrupt.
+Switching from thread "2" to thread "1"
+[10416] Timer interrupt.
+Switching from thread "1" to thread "2"
+[10516] Timer interrupt.
+Switching from thread "2" to thread "1"
+Switching from thread "1" to thread "4"
+[10624] Timer interrupt.
+Switching from thread "4" to thread "2"
+[10724] Timer interrupt.
+Switching from thread "2" to thread "1"
+[10824] Timer interrupt.
+Switching from thread "1" to thread "4"
+[10924] Timer interrupt.
+Switching from thread "4" to thread "2"
+[11026] Timer interrupt.
+[11126] Timer interrupt.
+Switching from thread "2" to thread "1"
+[11226] Timer interrupt.
+Switching from thread "1" to thread "4"
+[11326] Timer interrupt.
+Switching from thread "4" to thread "2"
+[11426] Timer interrupt.
+Switching from thread "2" to thread "1"
+[11526] Timer interrupt.
+Switching from thread "1" to thread "4"
+[11626] Timer interrupt.
+Switching from thread "4" to thread "2"
+[11726] Timer interrupt.
+Switching from thread "2" to thread "1"
+[11826] Timer interrupt.
+Switching from thread "1" to thread "4"
+[11926] Timer interrupt.
+Switching from thread "4" to thread "2"
+[12026] Timer interrupt.
+Switching from thread "2" to thread "1"
+[12126] Timer interrupt.
+[12226] Timer interrupt.
+Switching from thread "1" to thread "4"
+[12326] Timer interrupt.
+Switching from thread "4" to thread "2"
+[12426] Timer interrupt.
+Switching from thread "2" to thread "1"
+[12526] Timer interrupt.
+Switching from thread "1" to thread "4"
+[12626] Timer interrupt.
+Switching from thread "4" to thread "2"
+[12726] Timer interrupt.
+Switching from thread "2" to thread "1"
+[12826] Timer interrupt.
+Switching from thread "1" to thread "4"
+[12926] Timer interrupt.
+Switching from thread "4" to thread "2"
+[13026] Timer interrupt.
+Switching from thread "2" to thread "1"
+[13126] Timer interrupt.
+Switching from thread "1" to thread "4"
+[13226] Timer interrupt.
+[13326] Timer interrupt.
+Switching from thread "4" to thread "2"
+[13426] Timer interrupt.
+Switching from thread "2" to thread "1"
+[13526] Timer interrupt.
+Switching from thread "1" to thread "4"
+[13626] Timer interrupt.
+Switching from thread "4" to thread "2"
+[13726] Timer interrupt.
+Switching from thread "2" to thread "1"
+[13826] Timer interrupt.
+Switching from thread "1" to thread "4"
+[13926] Timer interrupt.
+Switching from thread "4" to thread "2"
+[14026] Timer interrupt.
+Switching from thread "2" to thread "1"
+[14126] Timer interrupt.
+Switching from thread "1" to thread "4"
+[14226] Timer interrupt.
+Switching from thread "4" to thread "2"
+[14326] Timer interrupt.
+[14426] Timer interrupt.
+Switching from thread "2" to thread "1"
+[14526] Timer interrupt.
+Switching from thread "1" to thread "4"
+[14626] Timer interrupt.
+Switching from thread "4" to thread "2"
+[14726] Timer interrupt.
+Switching from thread "2" to thread "1"
+[14826] Timer interrupt.
+Switching from thread "1" to thread "4"
+[14926] Timer interrupt.
+Switching from thread "4" to thread "2"
+[15026] Timer interrupt.
+Switching from thread "2" to thread "1"
+[15126] Timer interrupt.
+Switching from thread "1" to thread "4"
+[15226] Timer interrupt.
+Switching from thread "4" to thread "2"
+[15326] Timer interrupt.
+Switching from thread "2" to thread "1"
+[15426] Timer interrupt.
+[15526] Timer interrupt.
+Switching from thread "1" to thread "4"
+[15626] Timer interrupt.
+Switching from thread "4" to thread "2"
+[15726] Timer interrupt.
+Switching from thread "2" to thread "1"
+[15826] Timer interrupt.
+Switching from thread "1" to thread "4"
+[15926] Timer interrupt.
+Switching from thread "4" to thread "2"
+[16026] Timer interrupt.
+Switching from thread "2" to thread "1"
+[16126] Timer interrupt.
+Switching from thread "1" to thread "4"
+[16226] Timer interrupt.
+Switching from thread "4" to thread "2"
+[16326] Timer interrupt.
+Switching from thread "2" to thread "1"
+[16426] Timer interrupt.
+Switching from thread "1" to thread "4"
+[16526] Timer interrupt.
+[16626] Timer interrupt.
+Switching from thread "4" to thread "2"
+[16726] Timer interrupt.
+Switching from thread "2" to thread "1"
+[16826] Timer interrupt.
+Switching from thread "1" to thread "4"
+[16926] Timer interrupt.
+Switching from thread "4" to thread "2"
+[17026] Timer interrupt.
+Switching from thread "2" to thread "1"
+[17126] Timer interrupt.
+Switching from thread "1" to thread "4"
+[17226] Timer interrupt.
+Switching from thread "4" to thread "2"
+[17326] Timer interrupt.
+Switching from thread "2" to thread "1"
+[17426] Timer interrupt.
+Switching from thread "1" to thread "4"
+[17526] Timer interrupt.
+Switching from thread "4" to thread "2"
+[17626] Timer interrupt.
+[17726] Timer interrupt.
+Switching from thread "2" to thread "1"
+[17826] Timer interrupt.
+Switching from thread "1" to thread "4"
+[17926] Timer interrupt.
+Switching from thread "4" to thread "2"
+[18026] Timer interrupt.
+Switching from thread "2" to thread "1"
+[18126] Timer interrupt.
+Switching from thread "1" to thread "4"
+[18226] Timer interrupt.
+Switching from thread "4" to thread "2"
+[18326] Timer interrupt.
+Switching from thread "2" to thread "1"
+[18426] Timer interrupt.
+Switching from thread "1" to thread "4"
+[18526] Timer interrupt.
+Switching from thread "4" to thread "2"
+[18626] Timer interrupt.
+Switching from thread "2" to thread "1"
+[18726] Timer interrupt.
+[18826] Timer interrupt.
+Switching from thread "1" to thread "4"
+[18926] Timer interrupt.
+Switching from thread "4" to thread "2"
+[pid 2]: Exit called. Code: 0
+[19026] Timer interrupt.
+Switching from thread "2" to thread "1"
+[19126] Timer interrupt.
+Switching from thread "1" to thread "4"
+[19226] Timer interrupt.
+Switching from thread "4" to thread "1"
+[19326] Timer interrupt.
+Switching from thread "1" to thread "4"
+[19426] Timer interrupt.
+Switching from thread "4" to thread "1"
+[19526] Timer interrupt.
+Switching from thread "1" to thread "4"
+[19626] Timer interrupt.
+Switching from thread "4" to thread "1"
+[19726] Timer interrupt.
+Switching from thread "1" to thread "4"
+[19826] Timer interrupt.
+[19926] Timer interrupt.
+Switching from thread "4" to thread "1"
+[20026] Timer interrupt.
+Switching from thread "1" to thread "4"
+[20126] Timer interrupt.
+Switching from thread "4" to thread "1"
+[20226] Timer interrupt.
+Switching from thread "1" to thread "4"
+[20326] Timer interrupt.
+Switching from thread "4" to thread "1"
+[20426] Timer interrupt.
+Switching from thread "1" to thread "4"
+[20526] Timer interrupt.
+Switching from thread "4" to thread "1"
+[20626] Timer interrupt.
+Switching from thread "1" to thread "4"
+[20726] Timer interrupt.
+Switching from thread "4" to thread "1"
+[20826] Timer interrupt.
+Switching from thread "1" to thread "4"
+[20926] Timer interrupt.
+[21026] Timer interrupt.
+Switching from thread "4" to thread "1"
+[21126] Timer interrupt.
+Switching from thread "1" to thread "4"
+[21226] Timer interrupt.
+Switching from thread "4" to thread "1"
+[21326] Timer interrupt.
+Switching from thread "1" to thread "4"
+Switching from thread "4" to thread "1"
+[21426] Timer interrupt.
+Switching from thread "1" to thread "4"
+[21526] Timer interrupt.
+Switching from thread "4" to thread "1"
+[21626] Timer interrupt.
+Switching from thread "1" to thread "4"
+[21726] Timer interrupt.
+Switching from thread "4" to thread "1"
+[21826] Timer interrupt.
+Switching from thread "1" to thread "4"
+[21926] Timer interrupt.
+Switching from thread "4" to thread "1"
+[22026] Timer interrupt.
+[22126] Timer interrupt.
+Switching from thread "1" to thread "4"
+[22226] Timer interrupt.
+Switching from thread "4" to thread "1"
+[22326] Timer interrupt.
+Switching from thread "1" to thread "4"
+[22426] Timer interrupt.
+Switching from thread "4" to thread "1"
+[22526] Timer interrupt.
+Switching from thread "1" to thread "4"
+[22626] Timer interrupt.
+Switching from thread "4" to thread "1"
+[22726] Timer interrupt.
+Switching from thread "1" to thread "4"
+[22826] Timer interrupt.
+Switching from thread "4" to thread "1"
+[22926] Timer interrupt.
+Switching from thread "1" to thread "4"
+[23026] Timer interrupt.
+Switching from thread "4" to thread "1"
+[23126] Timer interrupt.
+[23226] Timer interrupt.
+Switching from thread "1" to thread "4"
+[23326] Timer interrupt.
+Switching from thread "4" to thread "1"
+[23426] Timer interrupt.
+Switching from thread "1" to thread "4"
+[23526] Timer interrupt.
+Switching from thread "4" to thread "1"
+[23626] Timer interrupt.
+Switching from thread "1" to thread "4"
+[23726] Timer interrupt.
+Switching from thread "4" to thread "1"
+[23826] Timer interrupt.
+Switching from thread "1" to thread "4"
+[23926] Timer interrupt.
+Switching from thread "4" to thread "1"
+[24026] Timer interrupt.
+Switching from thread "1" to thread "4"
+[24126] Timer interrupt.
+Switching from thread "4" to thread "1"
+[24226] Timer interrupt.
+[24326] Timer interrupt.
+Switching from thread "1" to thread "4"
+[24426] Timer interrupt.
+Switching from thread "4" to thread "1"
+[24526] Timer interrupt.
+Switching from thread "1" to thread "4"
+[24626] Timer interrupt.
+Switching from thread "4" to thread "1"
+[24726] Timer interrupt.
+Switching from thread "1" to thread "4"
+[24826] Timer interrupt.
+Switching from thread "4" to thread "1"
+[24926] Timer interrupt.
+Switching from thread "1" to thread "4"
+[25026] Timer interrupt.
+Switching from thread "4" to thread "1"
+[25126] Timer interrupt.
+Switching from thread "1" to thread "4"
+[25226] Timer interrupt.
+Switching from thread "4" to thread "1"
+[25326] Timer interrupt.
+[25426] Timer interrupt.
+Switching from thread "1" to thread "4"
+[25526] Timer interrupt.
+Switching from thread "4" to thread "1"
+[25626] Timer interrupt.
+Switching from thread "1" to thread "4"
+[25726] Timer interrupt.
+Switching from thread "4" to thread "1"
+[25826] Timer interrupt.
+Switching from thread "1" to thread "4"
+[25926] Timer interrupt.
+Switching from thread "4" to thread "1"
+[26026] Timer interrupt.
+Switching from thread "1" to thread "4"
+[26126] Timer interrupt.
+Switching from thread "4" to thread "1"
+[pid 1] Before sleep in JoinWithChild.
+[26226] Timer interrupt.
+Switching from thread "1" to thread "4"
+[26326] Timer interrupt.
+Switching from thread "4" to thread "4"
+[26426] Timer interrupt.
+[26526] Timer interrupt.
+Switching from thread "4" to thread "4"
+[26626] Timer interrupt.
+Switching from thread "4" to thread "4"
+[26726] Timer interrupt.
+Switching from thread "4" to thread "4"
+[26826] Timer interrupt.
+Switching from thread "4" to thread "4"
+[26926] Timer interrupt.
+Switching from thread "4" to thread "4"
+[27026] Timer interrupt.
+Switching from thread "4" to thread "4"
+[27126] Timer interrupt.
+Switching from thread "4" to thread "4"
+[27226] Timer interrupt.
+Switching from thread "4" to thread "4"
+[27326] Timer interrupt.
+Switching from thread "4" to thread "4"
+[27426] Timer interrupt.
+Switching from thread "4" to thread "4"
+[27526] Timer interrupt.
+[27626] Timer interrupt.
+Switching from thread "4" to thread "4"
+[27726] Timer interrupt.
+Switching from thread "4" to thread "4"
+[27826] Timer interrupt.
+Switching from thread "4" to thread "4"
+[27926] Timer interrupt.
+Switching from thread "4" to thread "4"
+[28026] Timer interrupt.
+Switching from thread "4" to thread "4"
+[28126] Timer interrupt.
+Switching from thread "4" to thread "4"
+[28226] Timer interrupt.
+Switching from thread "4" to thread "4"
+[28326] Timer interrupt.
+Switching from thread "4" to thread "4"
+[28426] Timer interrupt.
+Switching from thread "4" to thread "4"
+[28526] Timer interrupt.
+Switching from thread "4" to thread "4"
+[28626] Timer interrupt.
+[28726] Timer interrupt.
+Switching from thread "4" to thread "4"
+[28826] Timer interrupt.
+Switching from thread "4" to thread "4"
+[28926] Timer interrupt.
+Switching from thread "4" to thread "4"
+[29026] Timer interrupt.
+Switching from thread "4" to thread "4"
+[29126] Timer interrupt.
+Switching from thread "4" to thread "4"
+[29226] Timer interrupt.
+Switching from thread "4" to thread "4"
+[29326] Timer interrupt.
+Switching from thread "4" to thread "4"
+[29426] Timer interrupt.
+Switching from thread "4" to thread "4"
+[29526] Timer interrupt.
+Switching from thread "4" to thread "4"
+[29626] Timer interrupt.
+Switching from thread "4" to thread "4"
+[29726] Timer interrupt.
+[29826] Timer interrupt.
+Switching from thread "4" to thread "4"
+[29926] Timer interrupt.
+Switching from thread "4" to thread "4"
+[30026] Timer interrupt.
+Switching from thread "4" to thread "4"
+[30126] Timer interrupt.
+Switching from thread "4" to thread "4"
+[30226] Timer interrupt.
+Switching from thread "4" to thread "4"
+[30326] Timer interrupt.
+Switching from thread "4" to thread "4"
+[30426] Timer interrupt.
+Switching from thread "4" to thread "4"
+[30526] Timer interrupt.
+Switching from thread "4" to thread "4"
+[30626] Timer interrupt.
+Switching from thread "4" to thread "4"
+[30726] Timer interrupt.
+Switching from thread "4" to thread "4"
+[30826] Timer interrupt.
+[30926] Timer interrupt.
+Switching from thread "4" to thread "4"
+[31026] Timer interrupt.
+Switching from thread "4" to thread "4"
+[31126] Timer interrupt.
+Switching from thread "4" to thread "4"
+[31226] Timer interrupt.
+Switching from thread "4" to thread "4"
+[31326] Timer interrupt.
+Switching from thread "4" to thread "4"
+[31426] Timer interrupt.
+Switching from thread "4" to thread "4"
+[31526] Timer interrupt.
+Switching from thread "4" to thread "4"
+[31626] Timer interrupt.
+Switching from thread "4" to thread "4"
+[31726] Timer interrupt.
+Switching from thread "4" to thread "4"
+[31826] Timer interrupt.
+Switching from thread "4" to thread "4"
+[31926] Timer interrupt.
+[32026] Timer interrupt.
+Switching from thread "4" to thread "4"
+[32126] Timer interrupt.
+Switching from thread "4" to thread "4"
+[32226] Timer interrupt.
+Switching from thread "4" to thread "4"
+[32326] Timer interrupt.
+Switching from thread "4" to thread "4"
+[32426] Timer interrupt.
+Switching from thread "4" to thread "4"
+[32526] Timer interrupt.
+Switching from thread "4" to thread "4"
+[32626] Timer interrupt.
+Switching from thread "4" to thread "4"
+[32726] Timer interrupt.
+Switching from thread "4" to thread "4"
+[32826] Timer interrupt.
+Switching from thread "4" to thread "4"
+[32926] Timer interrupt.
+Switching from thread "4" to thread "4"
+[33026] Timer interrupt.
+[33126] Timer interrupt.
+Switching from thread "4" to thread "4"
+Switching from thread "4" to thread "5"
+[33226] Timer interrupt.
+Switching from thread "5" to thread "4"
+[33326] Timer interrupt.
+Switching from thread "4" to thread "5"
+[33426] Timer interrupt.
+Switching from thread "5" to thread "4"
+[33526] Timer interrupt.
+Switching from thread "4" to thread "5"
+[33626] Timer interrupt.
+Switching from thread "5" to thread "4"
+[33726] Timer interrupt.
+Switching from thread "4" to thread "5"
+[33826] Timer interrupt.
+Switching from thread "5" to thread "4"
+[33926] Timer interrupt.
+Switching from thread "4" to thread "5"
+[34026] Timer interrupt.
+Switching from thread "5" to thread "4"
+[34126] Timer interrupt.
+[34226] Timer interrupt.
+Switching from thread "4" to thread "5"
+[34326] Timer interrupt.
+Switching from thread "5" to thread "4"
+[34426] Timer interrupt.
+Switching from thread "4" to thread "5"
+[34526] Timer interrupt.
+Switching from thread "5" to thread "4"
+[34626] Timer interrupt.
+Switching from thread "4" to thread "5"
+[34726] Timer interrupt.
+Switching from thread "5" to thread "4"
+[34826] Timer interrupt.
+Switching from thread "4" to thread "5"
+[34926] Timer interrupt.
+Switching from thread "5" to thread "4"
+[35026] Timer interrupt.
+Switching from thread "4" to thread "5"
+[35126] Timer interrupt.
+Switching from thread "5" to thread "4"
+[35226] Timer interrupt.
+[35326] Timer interrupt.
+Switching from thread "4" to thread "5"
+[35426] Timer interrupt.
+Switching from thread "5" to thread "4"
+[35526] Timer interrupt.
+Switching from thread "4" to thread "5"
+[35626] Timer interrupt.
+Switching from thread "5" to thread "4"
+[35726] Timer interrupt.
+Switching from thread "4" to thread "5"
+[35826] Timer interrupt.
+Switching from thread "5" to thread "4"
+[35926] Timer interrupt.
+Switching from thread "4" to thread "5"
+[36026] Timer interrupt.
+Switching from thread "5" to thread "4"
+[36126] Timer interrupt.
+Switching from thread "4" to thread "5"
+[36226] Timer interrupt.
+Switching from thread "5" to thread "4"
+[36326] Timer interrupt.
+[36426] Timer interrupt.
+Switching from thread "4" to thread "5"
+[36526] Timer interrupt.
+Switching from thread "5" to thread "4"
+[36626] Timer interrupt.
+Switching from thread "4" to thread "5"
+[36726] Timer interrupt.
+Switching from thread "5" to thread "4"
+[36826] Timer interrupt.
+Switching from thread "4" to thread "5"
+[36926] Timer interrupt.
+Switching from thread "5" to thread "4"
+[37026] Timer interrupt.
+Switching from thread "4" to thread "5"
+[37126] Timer interrupt.
+Switching from thread "5" to thread "4"
+[37226] Timer interrupt.
+Switching from thread "4" to thread "5"
+[37326] Timer interrupt.
+Switching from thread "5" to thread "4"
+[37426] Timer interrupt.
+[37526] Timer interrupt.
+Switching from thread "4" to thread "5"
+[37626] Timer interrupt.
+Switching from thread "5" to thread "4"
+[37726] Timer interrupt.
+Switching from thread "4" to thread "5"
+[37826] Timer interrupt.
+Switching from thread "5" to thread "4"
+[37926] Timer interrupt.
+Switching from thread "4" to thread "5"
+[38026] Timer interrupt.
+Switching from thread "5" to thread "4"
+[38126] Timer interrupt.
+Switching from thread "4" to thread "5"
+[38226] Timer interrupt.
+Switching from thread "5" to thread "4"
+[38326] Timer interrupt.
+Switching from thread "4" to thread "5"
+[38426] Timer interrupt.
+Switching from thread "5" to thread "4"
+[38526] Timer interrupt.
+[38626] Timer interrupt.
+Switching from thread "4" to thread "5"
+[38726] Timer interrupt.
+Switching from thread "5" to thread "4"
+[38826] Timer interrupt.
+Switching from thread "4" to thread "5"
+[38926] Timer interrupt.
+Switching from thread "5" to thread "4"
+[39026] Timer interrupt.
+Switching from thread "4" to thread "5"
+[39126] Timer interrupt.
+Switching from thread "5" to thread "4"
+[39226] Timer interrupt.
+Switching from thread "4" to thread "5"
+[39326] Timer interrupt.
+Switching from thread "5" to thread "4"
+[39426] Timer interrupt.
+Switching from thread "4" to thread "5"
+[39526] Timer interrupt.
+Switching from thread "5" to thread "4"
+[39626] Timer interrupt.
+[39726] Timer interrupt.
+Switching from thread "4" to thread "5"
+[39826] Timer interrupt.
+Switching from thread "5" to thread "4"
+[39926] Timer interrupt.
+Switching from thread "4" to thread "5"
+[40026] Timer interrupt.
+Switching from thread "5" to thread "4"
+[40126] Timer interrupt.
+Switching from thread "4" to thread "5"
+[40226] Timer interrupt.
+Switching from thread "5" to thread "4"
+[40326] Timer interrupt.
+Switching from thread "4" to thread "5"
+[40426] Timer interrupt.
+Switching from thread "5" to thread "4"
+[40526] Timer interrupt.
+Switching from thread "4" to thread "5"
+[40626] Timer interrupt.
+Switching from thread "5" to thread "4"
+[40726] Timer interrupt.
+[40826] Timer interrupt.
+Switching from thread "4" to thread "5"
+[40926] Timer interrupt.
+Switching from thread "5" to thread "4"
+[41026] Timer interrupt.
+Switching from thread "4" to thread "5"
+[41126] Timer interrupt.
+Switching from thread "5" to thread "4"
+[41226] Timer interrupt.
+Switching from thread "4" to thread "5"
+[41326] Timer interrupt.
+Switching from thread "5" to thread "4"
+[41426] Timer interrupt.
+Switching from thread "4" to thread "5"
+[pid 5]: Exit called. Code: 0
+[41526] Timer interrupt.
+Switching from thread "5" to thread "4"
+[pid 4]: Exit called. Code: 0
+Switching from thread "4" to thread "1"
+[pid 1] After sleep in JoinWithChild.
+[41628] Timer interrupt.
+Switching from thread "1" to thread "1"
+[41728] Timer interrupt.
+Switching from thread "1" to thread "1"
+[41828] Timer interrupt.
+Switching from thread "1" to thread "1"
+[41936] Timer interrupt.
+[42036] Timer interrupt.
+Switching from thread "1" to thread "1"
+[42136] Timer interrupt.
+Switching from thread "1" to thread "1"
+[42236] Timer interrupt.
+Switching from thread "1" to thread "1"
+[42336] Timer interrupt.
+Switching from thread "1" to thread "1"
+[42436] Timer interrupt.
+Switching from thread "1" to thread "1"
+[42536] Timer interrupt.
+Switching from thread "1" to thread "1"
+[42636] Timer interrupt.
+Switching from thread "1" to thread "1"
+[42736] Timer interrupt.
+Switching from thread "1" to thread "1"
+[42836] Timer interrupt.
+Switching from thread "1" to thread "1"
+[42936] Timer interrupt.
+Switching from thread "1" to thread "1"
+[43036] Timer interrupt.
+[pid 1]: Exit called. Code: 1
+
+No threads ready or runnable, and no pending interrupts.
+Assuming all programs completed.
+Machine halting!
+
+Ticks: total 43042, idle 31112, system 3380, user 8550
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 320
+Paging: faults 0
+Network I/O: packets received 0, sent 0
+
+Cleaning up...
